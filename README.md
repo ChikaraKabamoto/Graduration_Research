@@ -10,6 +10,8 @@ It is a virtual fitting code of existing clothes by autoencoder. Only the tops a
 The datasets and trained models needed to run are here.
 実行方法
 
+
+
 ### 2.DiversityDesign.ipynb
 #### Abstract
 It is a fitting code of diversity design by VAEGAN which combined VAE and GAN. In order to solve the problem of the conventional virtual fitting system, "lack of diversity", the colors of tops, pants, and skirts can be changed to various colors by sample noise from the latent space.
@@ -17,6 +19,8 @@ It is a fitting code of diversity design by VAEGAN which combined VAE and GAN. I
 The datasets and trained models needed to run are here.
 We will also publish another dataset with colored clothing.
 実行方法
+
+
 
 ### 3.VirtualTryonSystem.ipynb
 #### Abstract
