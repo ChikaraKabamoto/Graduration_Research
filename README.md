@@ -27,6 +27,10 @@ We will also publish another dataset with colored clothing.
 #### Method
 Place the zip file downloaded above in "MyDrive" and unzip it.
 It will take some time to decompress.
+
+```!unzip DiversityDesign_data.zip```
+
+```!unzip color_data.zip```
 <br>
 <br>
 <br>
@@ -40,6 +44,10 @@ The trained models needed to run is here.
 #### Method
 Place the zip file downloaded above in "MyDrive" and unzip it.
 It will take some time to decompress.
+
+```!unzip DiversityDesign_data.zip```
+
+```!unzip segmentation.zip```
 <br>
 <br>
 <br>
