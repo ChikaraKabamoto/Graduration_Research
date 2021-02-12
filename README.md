@@ -11,6 +11,7 @@ The datasets and trained models needed to run are here.
 実行方法        
 <br>
 <br>
+<br>
 
 
 ### 2.DiversityDesign.ipynb
@@ -22,6 +23,7 @@ We will also publish another dataset with colored clothing.
 実行方法
 <br>
 <br>
+<br>
 
 
 ### 3.VirtualTryonSystem.ipynb
@@ -30,5 +32,6 @@ It is a virtual fitting system modeled on "Diversity Design.ipynb". You can chan
 #### Data
 The trained models needed to run is here.
 実行方法
+<br>
 <br>
 <br>
