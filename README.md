@@ -22,8 +22,8 @@ It will take some time to decompress.
 #### Abstract
 It is a fitting code of diversity design by VAEGAN which combined VAE and GAN. In order to solve the problem of the conventional virtual fitting system, "lack of diversity", the colors of tops, pants, and skirts can be changed to various colors by sample noise from the latent space.
 #### Data
-The datasets and trained models needed to run are here.
-We will also publish another dataset with colored clothing.
+The datasets and trained models needed to run are [here](https://drive.google.com/file/d/1O2mOSr2WopSaU_6WI774AMcEcP6eryG1/view?usp=sharing).
+We will also publish another [dataset](https://drive.google.com/file/d/1usF2XG_tZAPccnIU44XDE03Sz_nByEkl/view?usp=sharing) with colored clothing.
 #### Method
 Place the zip file downloaded above in "MyDrive" and unzip it.
 It will take some time to decompress.
@@ -40,7 +40,8 @@ It will take some time to decompress.
 #### Abstract
 It is a virtual fitting system modeled on "Diversity Design.ipynb". You can change the color of tops, pants, and skirts in portrait images taken with the camera. Find the coordination that suits you!
 #### Data
-The trained models needed to run is here.
+The trained models needed to run is [here](https://drive.google.com/file/d/1O2mOSr2WopSaU_6WI774AMcEcP6eryG1/view?usp=sharing).
+Click [here](https://drive.google.com/file/d/11MpsILUA8BG1coG_WwXFinQThJH6rj6D/view?usp=sharing) for the Seg model required for the system
 #### Method
 Place the zip file downloaded above in "MyDrive" and unzip it.
 It will take some time to decompress.
