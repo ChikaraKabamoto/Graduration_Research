@@ -9,7 +9,7 @@ It is a virtual fitting code of existing clothes by autoencoder. Only the tops a
 #### Data
 The datasets and trained models needed to run are here.
 実行方法
-
+<br>
 
 
 ### 2.DiversityDesign.ipynb
