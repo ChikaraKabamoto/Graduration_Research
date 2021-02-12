@@ -8,7 +8,9 @@ The code below is coded in "Pytorch" and can be executed in "Google Colaboratory
 It is a virtual fitting code of existing clothes by autoencoder. Only the tops are tried on, and the Patch GAN structure is used for the Discriminator so that the logo and pattern can be expressed.
 #### Data
 The datasets and trained models needed to run are here.
-実行方法        
+#### Method    
+Place the zip file downloaded above in "MyDrive" and unzip it.
+It will take some time to decompress.
 <br>
 <br>
 <br>
@@ -20,7 +22,9 @@ It is a fitting code of diversity design by VAEGAN which combined VAE and GAN. I
 #### Data
 The datasets and trained models needed to run are here.
 We will also publish another dataset with colored clothing.
-実行方法
+#### Method
+Place the zip file downloaded above in "MyDrive" and unzip it.
+It will take some time to decompress.
 <br>
 <br>
 <br>
@@ -31,7 +35,9 @@ We will also publish another dataset with colored clothing.
 It is a virtual fitting system modeled on "Diversity Design.ipynb". You can change the color of tops, pants, and skirts in portrait images taken with the camera. Find the coordination that suits you!
 #### Data
 The trained models needed to run is here.
-実行方法
+#### Method
+Place the zip file downloaded above in "MyDrive" and unzip it.
+It will take some time to decompress.
 <br>
 <br>
 <br>
