@@ -11,7 +11,9 @@ The datasets and trained models needed to run are here.
 #### Method    
 Place the zip file downloaded above in "MyDrive" and unzip it.
 It will take some time to decompress.
-~~~!unzip VirtualTryon_data.zip~~~
+'''
+!unzip VirtualTryon_data.zip
+'''
 <br>
 <br>
 <br>
