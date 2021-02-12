@@ -1,7 +1,7 @@
 # Virtual Tryon System
 Demonstrates a virtual fitting system with deep learning. In previous research, there was the problem that it was difficult to express clothing logos and patterns using deep learning alone. In addition, only existing clothing designs were available, and there was not a wide variety of clothing designs. The code, dataset, and trained model are shown below. You can get an image of the following fitting diagram from the trained model.
 
-![image](https://user-images.githubusercontent.com/59815704/107754840-634c4780-6d65-11eb-9ab4-50d828f286c3.png)
+<img src="https://user-images.githubusercontent.com/59815704/107754840-634c4780-6d65-11eb-9ab4-50d828f286c3.png"width="100px">
 ## Code
 The code below is coded in "Pytorch" and can be executed in "Google Colaboratory".
 ### 1.VirtualTryon.ipynb
