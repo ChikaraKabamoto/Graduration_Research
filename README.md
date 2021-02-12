@@ -7,7 +7,7 @@ The code below is coded in "Pytorch" and can be executed in "Google Colaboratory
 #### Abstract
 It is a virtual fitting code of existing clothes by autoencoder. Only the tops are tried on, and the Patch GAN structure is used for the Discriminator so that the logo and pattern can be expressed.
 #### Data
-The datasets and trained models needed to run are here.
+The datasets and trained models needed to run are [here](https://drive.google.com/file/d/1TWCL0AjNMzYCELbIfceINl9fEJIZe84A/view?usp=sharing).
 #### Method    
 Place the zip file downloaded above in "MyDrive" and unzip it.
 It will take some time to decompress.
